@@ -1,0 +1,17 @@
+{
+  "accentColor": "#24a5eb",
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": ".苹方-简",
+  "theme": "moonstone",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "AnuExtendTheme",
+    "两端对齐"
+  ],
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": false,
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": ".苹方-简,JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true
+}

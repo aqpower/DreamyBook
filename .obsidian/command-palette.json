@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "quickadd:runQuickAdd",
+    "remotely-save:start-sync",
+    "file-explorer:move-file"
+  ]
+}

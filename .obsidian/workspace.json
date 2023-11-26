@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52b0fd4185767505",
+        "id": "38d8d86e768a5a72",
         "type": "tabs",
         "children": [
           {
-            "id": "446b73a157e7bcaf",
+            "id": "b89e4a2413ca104e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - 日记🔥/2023-11-16-星期四.md",
+                "file": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🪴培育",
+                "query": "关键路径",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "dc23914df62d7234",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - 日记🔥/2023-11-16-星期四.md"
+                "file": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md"
               }
             }
           },
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - 日记🔥/2023-11-16-星期四.md",
+                "file": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - 日记🔥/2023-11-16-星期四.md",
+                "file": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347,
-    "collapsed": true
+    "width": 347
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,14 +203,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "446b73a157e7bcaf",
+  "active": "b89e4a2413ca104e",
   "lastOpenFiles": [
+    "10 - 日记🔥/2023-11-26-星期日.md",
+    "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md",
+    "10 - 日记🔥/2023-11-16-星期四.md",
+    "20 - Algorithm🍋/Knowledges/图论/关键路径.md",
+    "20 - Algorithm🍋/Knowledges/图论/Prim算法实现最小生成树.md",
+    "20 - Algorithm🍋/Knowledges/图论/Kruskal 算法实现最小生成树.md",
+    "20 - Algorithm🍋/Knowledges/图论/Dijkstra + DFS.md",
+    "20 - Algorithm🍋/Knowledges/图论/最小生成树.md",
+    "20 - Algorithm🍋/Knowledges/图论/最短路径.md",
+    "20 - Algorithm🍋/Knowledges/图论/拓扑排序.md",
+    "20 - Algorithm🍋/Knowledges/图论/环.md",
     "12.2 - rCore/Project rCore：在一个RISC-V机器上运行我们的内核.md",
     "06 - Studios🌊/函数调用与栈.md",
     "12.2 - rCore/Project rCore：进程抽象.md",
     "readme.md",
     "12.2 - rCore/rCore ch1 从一个 Bare Metal APP 开始.md",
-    "10 - 日记🔥/2023-11-16-星期四.md",
     "12.1 - MIT 6.S081/虚拟内存 Virtual Memory.md",
     "12.2 - rCore/rcore ch4 地址空间.md",
     "12.2 - rCore/rCore ch2 批处理系统.md",
@@ -221,17 +231,7 @@
     "10 - 日记🔥/2023-11-10-星期五.md",
     "10 - 日记🔥/2023-11-11-星期六.md",
     "10 - 日记🔥/2023-11-09-星期四.md",
-    "12.1 - MIT 6.S081/MIT 6.S081 Lec03 操作系统组织结构.md",
     "未命名.canvas",
-    "06 - Studios🌊/ArceOS 单内核Unikernel 1.md",
-    "06 - Studios🌊/从执行流说起.md",
-    "06 - Studios🌊/MIT 6. S081 Lec03 操作系统组织结构 1.md",
-    "06 - Studios🌊/MIT 6. S081 Lec03 操作系统组织结构.md",
-    "06 - Studios🌊/有压力才有动力—2023 年秋冬季 rCore 开源操作系统训练营一二阶段有感.md",
-    "10 - 日记🔥/2023-11-05-星期日.md",
-    "12.1 - MIT 6.S081/MIT6.S081 Lec01操作系统概述.md",
-    "10 - 日记🔥/2023-10-23-星期一.md",
-    "10 - 日记🔥/2023-10-24-星期二.md",
     "12.2 - rCore",
     "12 - OS🐮/6.S081-All-in-one/tranlate_books/book-riscv-rev1/images/c3/p1.png",
     "12.1 - MIT 6.S081",

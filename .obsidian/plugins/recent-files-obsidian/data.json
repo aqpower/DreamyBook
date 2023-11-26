@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "记录一次恢复 Arch Linux grub 引导过程的经历",
+      "path": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md"
+    },
+    {
+      "basename": "2023-11-26-星期日",
+      "path": "10 - 日记🔥/2023-11-26-星期日.md"
+    },
+    {
       "basename": "2023-11-16-星期四",
       "path": "10 - 日记🔥/2023-11-16-星期四.md"
+    },
+    {
+      "basename": "关键路径",
+      "path": "20 - Algorithm🍋/Knowledges/图论/关键路径.md"
+    },
+    {
+      "basename": "Prim算法实现最小生成树",
+      "path": "20 - Algorithm🍋/Knowledges/图论/Prim算法实现最小生成树.md"
+    },
+    {
+      "basename": "Kruskal 算法实现最小生成树",
+      "path": "20 - Algorithm🍋/Knowledges/图论/Kruskal 算法实现最小生成树.md"
+    },
+    {
+      "basename": "Dijkstra + DFS",
+      "path": "20 - Algorithm🍋/Knowledges/图论/Dijkstra + DFS.md"
+    },
+    {
+      "basename": "最小生成树",
+      "path": "20 - Algorithm🍋/Knowledges/图论/最小生成树.md"
+    },
+    {
+      "basename": "最短路径",
+      "path": "20 - Algorithm🍋/Knowledges/图论/最短路径.md"
+    },
+    {
+      "basename": "拓扑排序",
+      "path": "20 - Algorithm🍋/Knowledges/图论/拓扑排序.md"
+    },
+    {
+      "basename": "环",
+      "path": "20 - Algorithm🍋/Knowledges/图论/环.md"
     },
     {
       "basename": "Project rCore：在一个RISC-V机器上运行我们的内核",
@@ -159,26 +199,6 @@
     {
       "basename": "2023-04-16-星期日",
       "path": "10 - 日记🔥/2023-04-16-星期日.md"
-    },
-    {
-      "basename": "一份人工智能学习清单",
-      "path": "06 - Studios🌊/一份人工智能学习清单.md"
-    },
-    {
-      "basename": "怎么卡片式做笔记",
-      "path": "怎么卡片式做笔记.md"
-    },
-    {
-      "basename": "虚拟衣柜开发代码规范",
-      "path": "30 - Tools🧰/虚拟衣柜开发代码规范.md"
-    },
-    {
-      "basename": "大二上机器学习课程",
-      "path": "机器学习🎸/大二上机器学习课程/大二上机器学习课程.md"
-    },
-    {
-      "basename": "Obsidian 与 draw.io 结合插入流程图",
-      "path": "99 - obsidian/Obsidian 与 draw.io 结合插入流程图.md"
     }
   ],
   "omittedPaths": [],

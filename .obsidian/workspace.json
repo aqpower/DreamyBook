@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38d8d86e768a5a72",
+        "id": "67b05275a86dd268",
         "type": "tabs",
         "children": [
           {
-            "id": "b89e4a2413ca104e",
+            "id": "70db4735c9ee0631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md",
+                "file": "000 - Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "dc23914df62d7234",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md"
+                "file": "000 - Home.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md",
+                "file": "000 - Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md",
+                "file": "000 - Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,38 +202,38 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b89e4a2413ca104e",
+  "active": "70db4735c9ee0631",
   "lastOpenFiles": [
-    "10 - 日记🔥/2023-11-26-星期日.md",
-    "06 - Studios🌊/记录一次恢复 Arch Linux grub 引导过程的经历.md",
-    "10 - 日记🔥/2023-11-16-星期四.md",
-    "20 - Algorithm🍋/Knowledges/图论/关键路径.md",
-    "20 - Algorithm🍋/Knowledges/图论/Prim算法实现最小生成树.md",
-    "20 - Algorithm🍋/Knowledges/图论/Kruskal 算法实现最小生成树.md",
-    "20 - Algorithm🍋/Knowledges/图论/Dijkstra + DFS.md",
-    "20 - Algorithm🍋/Knowledges/图论/最小生成树.md",
-    "20 - Algorithm🍋/Knowledges/图论/最短路径.md",
-    "20 - Algorithm🍋/Knowledges/图论/拓扑排序.md",
-    "20 - Algorithm🍋/Knowledges/图论/环.md",
-    "12.2 - rCore/Project rCore：在一个RISC-V机器上运行我们的内核.md",
-    "06 - Studios🌊/函数调用与栈.md",
-    "12.2 - rCore/Project rCore：进程抽象.md",
+    "001 - 待办.md",
+    "000 - Home.md",
+    "99 - obsidian/怎么卡片式做笔记.md",
     "readme.md",
-    "12.2 - rCore/rCore ch1 从一个 Bare Metal APP 开始.md",
-    "12.1 - MIT 6.S081/虚拟内存 Virtual Memory.md",
-    "12.2 - rCore/rcore ch4 地址空间.md",
-    "12.2 - rCore/rCore ch2 批处理系统.md",
-    "06 - Studios🌊/Arceos 宏内核 lab1 report.md",
-    "10 - 日记🔥/2023-11-14-星期二.md",
-    "10 - 日记🔥/2023-11-08-星期三.md",
-    "10 - 日记🔥/2023-11-07-星期二.md",
-    "10 - 日记🔥/2023-11-10-星期五.md",
-    "10 - 日记🔥/2023-11-11-星期六.md",
-    "10 - 日记🔥/2023-11-09-星期四.md",
+    "10 - 日记🔥/2023-08-28-星期一.md",
+    "60 - 前端开发💓/Vue/Vue 中Props的是一个Ref响应式对象.md",
+    "06 - Studios🌊/Vue日历组件库 - FullCalendar 使用.md",
+    "06 - Studios🌊/YOLOv5 二轮车头盔+车牌.md",
+    "30 - Tools🧰/Windows 安装 SQLServer.md",
+    "60 - 前端开发💓/webpack 打包优化.md",
+    "06 - Studios🌊/vim.md",
+    "06 - Studios🌊/Ubuntu 与 Mac风格主题.md",
+    "06 - Studios🌊/ubuntu 的窗口也可以扭动起来.md",
+    "06 - Studios🌊/tmux 太酷啦.md",
+    "20 - Algorithm🍋/STL 容器自定义比较函数.md",
+    "19 - SICP/SICP 第一章阅读随笔 1.md",
+    "06 - Studios🌊/RISC-V 指令集.md",
+    "06 - Studios🌊/MIT6.S081 - Lab1.md",
+    "30 - Tools🧰/Linux 下的输入法解决方案— fcitx5 + rime-ice.md",
+    "06 - Studios🌊/MIT6.S081 Lec1 Introduction and Examples.md",
+    "06 - Studios🌊/IEEE 754 标准.md",
+    "06 - Studios🌊/Git用于多人协作开发.md",
+    "06 - Studios🌊/Git使用.md",
+    "60 - 前端开发💓/CSS 修改滚动条样式.md",
+    "06 - Studios🌊/ElementPlus 表单验证.md",
+    "06 - Studios🌊/CSS 定位详解.md",
     "未命名.canvas",
-    "12.2 - rCore",
+    "12 - OS🐮/12.2 - rCore",
     "12 - OS🐮/6.S081-All-in-one/tranlate_books/book-riscv-rev1/images/c3/p1.png",
-    "12.1 - MIT 6.S081",
+    "12 - OS🐮/12.1 - MIT 6.S081",
     "19 - SICP",
     "12 - OS/未命名",
     "Day Planners",

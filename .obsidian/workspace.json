@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "67b05275a86dd268",
+        "id": "f222bcc20e33c23b",
         "type": "tabs",
         "children": [
           {
-            "id": "70db4735c9ee0631",
+            "id": "5af6020aea41ec67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 - Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "关键路径",
+                "query": "翻译",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +90,7 @@
       {
         "id": "4fbe8cc7a895d3fd",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 23.980815347721823,
         "children": [
           {
             "id": "2aced3ff1aa83598",
@@ -130,7 +125,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -139,7 +136,7 @@
       {
         "id": "1728954ada23f609",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 76.01918465227818,
         "children": [
           {
             "id": "afbbb445f9e08af2",
@@ -147,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - Home.md"
+                "file": "12 - 计算机网络🛜/CS144 2023Spring Lab0.md"
               }
             }
           },
@@ -157,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 - Home.md",
+                "file": "12 - 计算机网络🛜/CS144 2023Spring Lab0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 - Home.md",
+                "file": "12 - 计算机网络🛜/CS144 2023Spring Lab0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 347,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +200,27 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "70db4735c9ee0631",
+  "active": "da5cc372c5593688",
   "lastOpenFiles": [
-    "001 - 待办.md",
+    "12 - 计算机网络🛜",
+    "12 - 计算机网络🛜/CS144 2023Spring Lab0.md",
+    "10 - 日记🔥/2023-12-25-星期一.md",
+    "12 - OS🐮/12.1 - MIT 6.S081/虚拟内存 Virtual Memory.md",
+    "06 - Studios🌊/向量数据库.md",
+    "06 - Studios🌊/函数调用与栈.md",
+    "10 - 日记🔥/2023-07-18-星期二.md",
+    "20 - Algorithm🍋/Function/map-set-与-unordered-map-set.md",
+    "30 - Tools🧰/虚拟衣柜开发代码规范.md",
+    "10 - 日记🔥/2023-12-24-星期日.md",
+    "10 - 日记🔥/2023-12-23-星期六.md",
+    "10 - 日记🔥/2023-03-28-星期二.md",
+    "60 - 前端开发💓/CSS 修改滚动条样式.md",
+    "10 - 日记🔥/2023-07-03-星期一.md",
+    "06 - Studios🌊/eBook 数据字典.md",
+    "10 - 日记🔥/2023-12-05-星期二.md",
+    "10 - 日记🔥/2023-12-03-星期日.md",
     "000 - Home.md",
+    "001 - 待办.md",
     "99 - obsidian/怎么卡片式做笔记.md",
     "readme.md",
     "10 - 日记🔥/2023-08-28-星期一.md",
@@ -213,23 +228,6 @@
     "06 - Studios🌊/Vue日历组件库 - FullCalendar 使用.md",
     "06 - Studios🌊/YOLOv5 二轮车头盔+车牌.md",
     "30 - Tools🧰/Windows 安装 SQLServer.md",
-    "60 - 前端开发💓/webpack 打包优化.md",
-    "06 - Studios🌊/vim.md",
-    "06 - Studios🌊/Ubuntu 与 Mac风格主题.md",
-    "06 - Studios🌊/ubuntu 的窗口也可以扭动起来.md",
-    "06 - Studios🌊/tmux 太酷啦.md",
-    "20 - Algorithm🍋/STL 容器自定义比较函数.md",
-    "19 - SICP/SICP 第一章阅读随笔 1.md",
-    "06 - Studios🌊/RISC-V 指令集.md",
-    "06 - Studios🌊/MIT6.S081 - Lab1.md",
-    "30 - Tools🧰/Linux 下的输入法解决方案— fcitx5 + rime-ice.md",
-    "06 - Studios🌊/MIT6.S081 Lec1 Introduction and Examples.md",
-    "06 - Studios🌊/IEEE 754 标准.md",
-    "06 - Studios🌊/Git用于多人协作开发.md",
-    "06 - Studios🌊/Git使用.md",
-    "60 - 前端开发💓/CSS 修改滚动条样式.md",
-    "06 - Studios🌊/ElementPlus 表单验证.md",
-    "06 - Studios🌊/CSS 定位详解.md",
     "未命名.canvas",
     "12 - OS🐮/12.2 - rCore",
     "12 - OS🐮/6.S081-All-in-one/tranlate_books/book-riscv-rev1/images/c3/p1.png",

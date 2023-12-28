@@ -3,7 +3,7 @@
   "cssTheme": "AnuPpuccin",
   "textFontFamily": ".苹方-简",
   "theme": "moonstone",
-  "baseFontSize": 20,
+  "baseFontSize": 23,
   "enabledCssSnippets": [
     "AnuExtendTheme",
     "两端对齐"

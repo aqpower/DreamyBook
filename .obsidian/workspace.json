@@ -11,8 +11,13 @@
             "id": "5af6020aea41ec67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10 - 日记🔥/2024-01-01-星期一.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -144,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12 - 计算机网络🛜/CS144 2023Spring Lab0.md"
+                "file": "10 - 日记🔥/2024-01-01-星期一.md"
               }
             }
           },
@@ -154,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 - 计算机网络🛜/CS144 2023Spring Lab0.md",
+                "file": "10 - 日记🔥/2024-01-01-星期一.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12 - 计算机网络🛜/CS144 2023Spring Lab0.md",
+                "file": "10 - 日记🔥/2024-01-01-星期一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +205,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "da5cc372c5593688",
+  "active": "5af6020aea41ec67",
   "lastOpenFiles": [
-    "12 - 计算机网络🛜",
+    "10 - 日记🔥/2023-12-29-星期五.md",
+    "10 - 日记🔥/2024-01-01-星期一.md",
+    "10 - 日记🔥/2023-12-28-星期四.md",
     "12 - 计算机网络🛜/CS144 2023Spring Lab0.md",
+    "12 - 计算机网络🛜",
     "10 - 日记🔥/2023-12-25-星期一.md",
     "12 - OS🐮/12.1 - MIT 6.S081/虚拟内存 Virtual Memory.md",
     "06 - Studios🌊/向量数据库.md",
@@ -226,8 +234,6 @@
     "10 - 日记🔥/2023-08-28-星期一.md",
     "60 - 前端开发💓/Vue/Vue 中Props的是一个Ref响应式对象.md",
     "06 - Studios🌊/Vue日历组件库 - FullCalendar 使用.md",
-    "06 - Studios🌊/YOLOv5 二轮车头盔+车牌.md",
-    "30 - Tools🧰/Windows 安装 SQLServer.md",
     "未命名.canvas",
     "12 - OS🐮/12.2 - rCore",
     "12 - OS🐮/6.S081-All-in-one/tranlate_books/book-riscv-rev1/images/c3/p1.png",
@@ -248,7 +254,6 @@
     "12 - OS🐮/6.S081-All-in-one/tranlate_books/book-riscv-rev1/images/c7",
     "12 - OS🐮/6.S081-All-in-one/tranlate_books/book-riscv-rev1/images/c6",
     "12 - OS🐮/6.S081-All-in-one/tranlate_books/book-riscv-rev1/images/c3",
-    "12 - OS🐮/6.S081-All-in-one/tranlate_books/book-riscv-rev1/images/c2",
     "未命名 1.canvas",
     "Studios🌊/一个单目标计算机器.canvas"
   ]
